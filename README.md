@@ -50,7 +50,7 @@
 
 <img width="1470" alt="Screenshot 2024-02-02 at 9 13 32 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/2cc3e03e-bdeb-45a9-8add-09fad3ee18d1">
 
-<img width="1470" alt="Screenshot 2024-02-02 at 9 14 13 AM" src="https://github.com/Sundar">
+<img width="1470" alt="Screenshot 2024-02-02 at 9 23 53 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/91bc96fe-3624-414b-b4d7-44faa7322c37">
 
 <img width="1470" alt="Screenshot 2024-02-02 at 9 14 37 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/891eb8ef-716e-4817-9914-19acc9eda755">
 
