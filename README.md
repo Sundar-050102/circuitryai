@@ -9,10 +9,10 @@
 #Step 2: Set Up a React.js Project
 
 1.  npx create-react-app my-app
+   
+3.  cd my-app
 
-2.  cd my-app
-
-3.  npm start
+4.  npm start
 
 ###Step 3: Install Dependencies
 
