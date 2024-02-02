@@ -44,7 +44,7 @@
 #Step 8: Run Your React.js App
 
 
-##Expected Output
+<h1>The Home page</h1>
 
 <img width="1470" alt="Screenshot 2024-02-02 at 9 13 16 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/e9a9c894-b30b-4258-98d8-c335cec55911">
 
