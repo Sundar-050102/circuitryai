@@ -44,17 +44,25 @@
 #Step 8: Run Your React.js App
 
 
-<h1>The Home page</h1>
+<h1>Home page</h1>
 
 <img width="1470" alt="Screenshot 2024-02-02 at 9 13 16 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/e9a9c894-b30b-4258-98d8-c335cec55911">
 
+<h1>Login page</h1>
+
 <img width="1470" alt="Screenshot 2024-02-02 at 9 13 32 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/2cc3e03e-bdeb-45a9-8add-09fad3ee18d1">
+
+<h1>Signup page</h1>
 
 <img width="1470" alt="Screenshot 2024-02-02 at 9 23 53 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/91bc96fe-3624-414b-b4d7-44faa7322c37">
 
+<h1>Forgot password page</h1>
+
 <img width="1470" alt="Screenshot 2024-02-02 at 9 14 37 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/891eb8ef-716e-4817-9914-19acc9eda755">
+
+<h1>The Home page</h1>
 
 <img width="1470" alt="Screenshot 2024-02-02 at 9 15 20 AM" src="https://github.com/Sundar-050102/circuitryai/assets/104652362/2f7ba5a8-a0e1-4096-be8b-3adc62dda05e">
 
-<h1>The Home page</h1>
+
 
