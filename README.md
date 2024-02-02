@@ -1,4 +1,4 @@
-#Step 1: Set Up an Auth0 Account
+<h2>#Step 1: Set Up an Auth0 Account</h2>
 
 1. Go to the Auth0 website and sign up for a free account.
 
@@ -6,7 +6,7 @@
 
 3. Note down your Auth0 Domain and Client ID from the application settings.
 
-#Step 2: Set Up a React.js Project
+<h2>#Step 2: Set Up a React.js Project</h2>
 
 1.  npx create-react-app my-app
    
@@ -14,7 +14,7 @@
 
 4.  npm start
 
-###Step 3: Install Dependencies
+<h2>#Step 3: Install Dependencies</h2>
 
 {
   @auth0/auth0-react
@@ -22,13 +22,13 @@
   react-router-dom
 }
 
-#Step 4: Create Auth0 Configuration
+<h2>#Step 4: Create Auth0 Configuration</h2>
 
 1. DOMNAIN NAME
 
 2. CLIENT_ID
 
-#Step 5: Set Up Auth0Provider
+ <h2>#Step 5: Set Up Auth0Provide</h2>
 
 1.   <Auth0Provider
       domain={''}
@@ -37,11 +37,11 @@
     >
     </Auth0Provider>
 
-#Step 6: Create Login and Logout Components
+ <h2>#Step 6: Create Login and Logout Components</h2>
 
-#Step 7: Use Login Component
+<h2>#Step 7: Use Login Component </h2>
 
-#Step 8: Run Your React.js App
+ <h2>#Step 8: Run Your React.js App</h2>
 
 
 <h3>********************************************OUTPUT>********************************************</h3>
