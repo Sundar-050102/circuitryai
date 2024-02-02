@@ -1,6 +1,6 @@
 <h2>#Step 1: Set Up an Auth0 Account</h2>
 
-1. Go to the Auth0 website and sign up for a free account.
+1. Go to the Auth0 website https://auth0.com/docs and sign up for a free account.
 
 2. Create a new Auth0 application from the dashboard.
 
